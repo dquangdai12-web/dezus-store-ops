@@ -192,6 +192,10 @@ function saveUploadedFile(file) {
   fs.renameSync(file.path, nextPath);
   return `/uploads/${newName}`;
 }
+function saveUploadedFiles(files) {
+  if (!files || !files.length) return null;
+  return JSON.stringify(files.map(file => saveUploadedFile(file)).filter(Boolean));
+}
 function taskStatus(row) {
   if (row.completed_at) return new Date(row.completed_at) <= new Date(row.due_at) ? 'completed_on_time' : 'completed_late';
   return new Date() > new Date(row.due_at) ? 'overdue' : 'assigned';
