@@ -1,0 +1,966 @@
+[
+  {
+    "id": "OPS",
+    "title": "OPS CHECKLIST CỬA HÀNG",
+    "target_type": "store",
+    "max_score": 100,
+    "sections": [
+      {
+        "id": "OPS_section_0",
+        "title": "Tổng quan"
+      },
+      {
+        "id": "OPS_section_1",
+        "title": "1. Quản lý & Đào tạo (10 điểm)"
+      },
+      {
+        "id": "OPS_section_2",
+        "title": "1.1 CDP – (Career Development Plan – Kế hoạch phát triển nghề nghiệp) (6 điểm)"
+      },
+      {
+        "id": "OPS_section_3",
+        "title": "1.2 GUESTS checklist (Greeting – Understand – Engage – Suggest – Thank – Service . Bộ tiêu chuẩn phục vụ khách hàng ) (4 điểm)"
+      },
+      {
+        "id": "OPS_section_4",
+        "title": "2. Hình ảnh cửa hàng (10 điểm)"
+      },
+      {
+        "id": "OPS_section_5",
+        "title": "2.1 Vệ sinh (4 điểm)"
+      },
+      {
+        "id": "OPS_section_6",
+        "title": "2.2 Kho hàng (4 điểm)"
+      },
+      {
+        "id": "OPS_section_7",
+        "title": "2.3 Quầy thu ngân (2 điểm)"
+      },
+      {
+        "id": "OPS_section_8",
+        "title": "3. Tiêu chuẩn hình ảnh \"Đại Sứ Thương Hiệu\" – Grooming (10 điểm)"
+      },
+      {
+        "id": "OPS_section_9",
+        "title": "3.1 Đồng phục (4 điểm)"
+      },
+      {
+        "id": "OPS_section_10",
+        "title": "3.2 Ngoại hình (4 điểm)"
+      },
+      {
+        "id": "OPS_section_11",
+        "title": "3.3 Vệ sinh cá nhân (2 điểm)"
+      },
+      {
+        "id": "OPS_section_12",
+        "title": "4. Trải nghiệm khách hàng (40 điểm)"
+      },
+      {
+        "id": "OPS_section_13",
+        "title": "4.1 Tiếp cận chân thành (2 điểm)"
+      },
+      {
+        "id": "OPS_section_14",
+        "title": "4.2 Thấu hiểu & đáp ứng nhu cầu (8 điểm)"
+      },
+      {
+        "id": "OPS_section_15",
+        "title": "4.3 Giới thiệu sản phẩm (FAB & UPB) (10 điểm)"
+      },
+      {
+        "id": "OPS_section_16",
+        "title": "4.4 Tư vấn bán hàng (8 điểm)"
+      },
+      {
+        "id": "OPS_section_17",
+        "title": "4.5 Quy trình thanh toán & Kết thúc bán hàng (7 điểm)"
+      },
+      {
+        "id": "OPS_section_18",
+        "title": "4.6 Dịch vụ hậu mãi (5 điểm)"
+      },
+      {
+        "id": "OPS_section_19",
+        "title": "5. Kiến thức thương hiệu & sản phẩm (20 điểm)"
+      },
+      {
+        "id": "OPS_section_20",
+        "title": "5.1 Kiến thức về thương hiệu (5 điểm)"
+      },
+      {
+        "id": "OPS_section_21",
+        "title": "5.2 Kiến thức về sản phẩm (15 điểm)"
+      },
+      {
+        "id": "OPS_section_22",
+        "title": "6. Trends & Looks (10 điểm)"
+      }
+    ],
+    "items": [
+      {
+        "id": "OPS_001",
+        "section_id": "OPS_section_2",
+        "title": "Nhân viên mới có ghi nhận tiến độ",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_002",
+        "section_id": "OPS_section_2",
+        "title": "Nhân viên thăng chức có ghi nhận tiến độ",
+        "max_score": 4
+      },
+      {
+        "id": "OPS_003",
+        "section_id": "OPS_section_3",
+        "title": "Full-time ký nhận & nắm rõ GUESTS",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_004",
+        "section_id": "OPS_section_3",
+        "title": "Part-time ký nhận & nắm rõ GUESTS",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_005",
+        "section_id": "OPS_section_5",
+        "title": "Tổng quan cửa hàng bài trí sạch sẽ, gọn gàng, không mùi lạ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_006",
+        "section_id": "OPS_section_5",
+        "title": "Khu vệ sinh & phòng thay đồ sạch sẽ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_007",
+        "section_id": "OPS_section_5",
+        "title": "Lối đi, cầu thang, gương, sản phẩm trưng bày sạch sẽ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_008",
+        "section_id": "OPS_section_5",
+        "title": "Sàn, cửa kính, khu vực bán hàng không có bụi/rác",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_009",
+        "section_id": "OPS_section_6",
+        "title": "Kho chứa được sắp xếp gọn gàng, quản lý an toàn, hiệu quả",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_010",
+        "section_id": "OPS_section_6",
+        "title": "Không chứa đựng, lưu trữ những vật dụng không phù hợp",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_011",
+        "section_id": "OPS_section_6",
+        "title": "Giá kệ standee, poster cũ được bảo quản theo quy định",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_012",
+        "section_id": "OPS_section_6",
+        "title": "Tổng quan kho hàng sạch sẽ, không có rác, vật dụng và vết bẩn vương vãi",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_013",
+        "section_id": "OPS_section_7",
+        "title": "Màn hình hiển thị chính xác, mặt quầy quầy sạch, gọn gàng",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_014",
+        "section_id": "OPS_section_7",
+        "title": "Tủ quầy sắp xếp gọn gàng, sạch sẽ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_015",
+        "section_id": "OPS_section_9",
+        "title": "Đeo bảng tên đầy đủ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_016",
+        "section_id": "OPS_section_9",
+        "title": "Đồng phục sạch sẽ, gọn gàng, đúng size",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_017",
+        "section_id": "OPS_section_9",
+        "title": "Phụ kiện đúng quy định",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_018",
+        "section_id": "OPS_section_10",
+        "title": "Tóc gọn gàng, không nhuộm sáng màu",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_019",
+        "section_id": "OPS_section_10",
+        "title": "Nữ trang điểm nhẹ nhàng, tươi tắn",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_020",
+        "section_id": "OPS_section_10",
+        "title": "Nam cạo râu sạch sẽ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_021",
+        "section_id": "OPS_section_10",
+        "title": "Sử dụng trang sức, phụ kiện đúng quy định",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_022",
+        "section_id": "OPS_section_11",
+        "title": "Không mùi cơ thể, hôi miệng",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_023",
+        "section_id": "OPS_section_11",
+        "title": "Móng tay cắt ngắn, vệ sinh sạch sẽ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_024",
+        "section_id": "OPS_section_13",
+        "title": "Thể hiện sự chào đón bằng lời và không lời",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_025",
+        "section_id": "OPS_section_13",
+        "title": "Xử lý từ chối tiếp cận một cách phù hợp",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_026",
+        "section_id": "OPS_section_14",
+        "title": "Đặt câu hỏi mở để tìm hiểu nhu cầu khách hàng",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_027",
+        "section_id": "OPS_section_14",
+        "title": "Thể hiện cử chỉ lắng nghe: Gật đầu, tương tác ánh mắt, nụ cười, chốt lại thông tin bằng câu hỏi đóng",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_028",
+        "section_id": "OPS_section_14",
+        "title": "Đáp ứng được nhu cầu cơ bản của khách hàng",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_029",
+        "section_id": "OPS_section_14",
+        "title": "Có khả năng đáp ứng theo phong cách cá nhân của khách",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_030",
+        "section_id": "OPS_section_15",
+        "title": "Có khả năng trình bày FAB( Đặc điểm, ưu điểm, lợi ích) của sản phẩm một cách nhất quán",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_031",
+        "section_id": "OPS_section_15",
+        "title": "Thể hiện kiến thức sản phẩm một cách chuyên nghiệp",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_032",
+        "section_id": "OPS_section_15",
+        "title": "Xác định và trình bày được UPB (Điểm khác biệt tạo ấn tượng và khiến khách muốn mua)",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_033",
+        "section_id": "OPS_section_15",
+        "title": "Có khả năng đưa ra được lựa chọn thay thế khi bị khách hàng từ chối",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_034",
+        "section_id": "OPS_section_15",
+        "title": "Khuyến khích khách thử sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_035",
+        "section_id": "OPS_section_15",
+        "title": "Hướng dẫn khách xem đồ, sãn sàng có mặt khi khách cần giúp đỡ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_036",
+        "section_id": "OPS_section_15",
+        "title": "Xác định size , màu sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_037",
+        "section_id": "OPS_section_15",
+        "title": "Chuẩn bị sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_038",
+        "section_id": "OPS_section_15",
+        "title": "Treo sản phẩm vào phòng thử, hướng khách đến phòng thử",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_039",
+        "section_id": "OPS_section_15",
+        "title": "Phản hồi và theo dõi",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_040",
+        "section_id": "OPS_section_16",
+        "title": "Thể hiện kĩ năng Cross sale, Up sale một cách chủ động và thành thạo",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_041",
+        "section_id": "OPS_section_16",
+        "title": "Giới thiệu về chương trình tích điểm thành viên và chương trình khuyến mãi ( Nếu có)",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_042",
+        "section_id": "OPS_section_16",
+        "title": "Linh động xử lý công việc trong lúc bán hàng",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_043",
+        "section_id": "OPS_section_16",
+        "title": "Gợi ý / Hướng dẫn cách phối trang phục tổng thể",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_044",
+        "section_id": "OPS_section_16",
+        "title": "Giải quyết từ chối một cách hiệu quả và chuyên nghiệp",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_045",
+        "section_id": "OPS_section_16",
+        "title": "Thể hiện kĩ năng chốt Sale một cách hiệu quả",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_046",
+        "section_id": "OPS_section_17",
+        "title": "Chào khách và xin lỗi vì đã chờ lâu",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_047",
+        "section_id": "OPS_section_17",
+        "title": "Xác nhận số món hàng",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_048",
+        "section_id": "OPS_section_17",
+        "title": "Kiểm tra sản phẩm, mời khách cùng kiểm tra lại trước khi thanh toán",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_049",
+        "section_id": "OPS_section_17",
+        "title": "Xin thông tin khách, kiểm tra SĐT tích điểm/ Tên KH",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_050",
+        "section_id": "OPS_section_17",
+        "title": "Đưa hóa đơn, thông báo chính sách đổi hàng, cách chăm sóc sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_051",
+        "section_id": "OPS_section_17",
+        "title": "Đưa sản phẩm cho khách hàng bằng 2 tay một cách lịch sự",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_052",
+        "section_id": "OPS_section_17",
+        "title": "Giới thiệu hàng mới về hàng tuần. Cảm ơn và hẹn gặp lại",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_053",
+        "section_id": "OPS_section_18",
+        "title": "Thể hiện thành thục kiến thức về dịch vụ hậu mãi",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_054",
+        "section_id": "OPS_section_18",
+        "title": "Có kiến thức và thành thạo trong việc đổi hàng",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_055",
+        "section_id": "OPS_section_18",
+        "title": "Giải quyết thành thục các trường hợp khiếu nại",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_056",
+        "section_id": "OPS_section_20",
+        "title": "Lịch sử thương hiệu",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_057",
+        "section_id": "OPS_section_20",
+        "title": "Khách hàng mục tiêu",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_058",
+        "section_id": "OPS_section_20",
+        "title": "Tầm nhìn & Sứ mệnh",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_059",
+        "section_id": "OPS_section_20",
+        "title": "Giá trị cốt lõi",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_060",
+        "section_id": "OPS_section_20",
+        "title": "Cam kết thương hiệu & dịch vụ",
+        "max_score": 1
+      },
+      {
+        "id": "OPS_061",
+        "section_id": "OPS_section_21",
+        "title": "Phân loại, mã sản phẩm",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_062",
+        "section_id": "OPS_section_21",
+        "title": "Kiến thức số đo, size",
+        "max_score": 3
+      },
+      {
+        "id": "OPS_063",
+        "section_id": "OPS_section_21",
+        "title": "Đặc điểm kỹ thuật",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_064",
+        "section_id": "OPS_section_21",
+        "title": "Nhận diện sản phẩm theo tên riêng",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_065",
+        "section_id": "OPS_section_21",
+        "title": "Kiến thức về chất liệu",
+        "max_score": 3
+      },
+      {
+        "id": "OPS_066",
+        "section_id": "OPS_section_21",
+        "title": "Chăm sóc sản phẩm",
+        "max_score": 3
+      },
+      {
+        "id": "OPS_067",
+        "section_id": "OPS_section_22",
+        "title": "Phân tích xu hướng khách hàng mục tiêu",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_068",
+        "section_id": "OPS_section_22",
+        "title": "Nắm bắt & dự đoán xu hướng",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_069",
+        "section_id": "OPS_section_22",
+        "title": "Hiểu rõ phong cách thời trang phù hợp",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_070",
+        "section_id": "OPS_section_22",
+        "title": "Có khả năng phân tích hình thể & phối đồ",
+        "max_score": 2
+      },
+      {
+        "id": "OPS_071",
+        "section_id": "OPS_section_22",
+        "title": "Có khả năng áp dụng kiến thức Trends & Looks vào quy trình bán hàng một cách chủ động",
+        "max_score": 2
+      }
+    ]
+  },
+  {
+    "id": "GUESTS",
+    "title": "GUESTS CHECKLIST",
+    "target_type": "employee",
+    "max_score": 30,
+    "sections": [
+      {
+        "id": "GROOMING",
+        "title": "1. GROOMING"
+      },
+      {
+        "id": "APPROACH",
+        "title": "2. GENUINE APPROACH"
+      },
+      {
+        "id": "UNDERSTAND",
+        "title": "3. THẤU HIỂU VÀ ĐÁP ỨNG NHU CẦU"
+      },
+      {
+        "id": "ENGAGE",
+        "title": "4. GẮN KẾT FAB/UPB"
+      },
+      {
+        "id": "SUGGEST",
+        "title": "5. TƯ VẤN BÁN HÀNG"
+      },
+      {
+        "id": "THANK",
+        "title": "6. CÁM ƠN VÀ KHUYẾN KHÍCH QUAY LẠI"
+      },
+      {
+        "id": "SERVICE",
+        "title": "7. DỊCH VỤ HẬU MÃI"
+      }
+    ],
+    "items": [
+      {
+        "id": "GUESTS_001",
+        "section_id": "GROOMING",
+        "title": "Nhân viên tuân thủ tiêu chuẩn hình ảnh nhãn hàng: đồng phục, grooming, tóc/trang điểm đúng guideline",
+        "max_score": 4
+      },
+      {
+        "id": "GUESTS_002",
+        "section_id": "APPROACH",
+        "title": "Chào hỏi, tiếp cận khách hàng nồng nhiệt bằng ngôn ngữ, tông giọng, thái độ và hành động phù hợp",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_003",
+        "section_id": "APPROACH",
+        "title": "Đáp ứng từng kiểu khách bằng phương pháp phù hợp: thờ ơ, thân thiện, có nhu cầu",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_004",
+        "section_id": "UNDERSTAND",
+        "title": "Đặt ít nhất 2 câu hỏi mở để tìm hiểu nhu cầu: kiểu dáng, màu sắc, dịp sử dụng, sở thích",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_005",
+        "section_id": "UNDERSTAND",
+        "title": "Chủ động lắng nghe: ánh mắt, nụ cười, gật đầu, lặp lại và dùng câu hỏi đóng để chốt thông tin",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_006",
+        "section_id": "UNDERSTAND",
+        "title": "Cung cấp sản phẩm phù hợp với phong cách/nhu cầu/sở thích để khách đồng ý thử",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_007",
+        "section_id": "UNDERSTAND",
+        "title": "Đáp ứng được nhu cầu thực tế của khách trong quá trình tư vấn",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_008",
+        "section_id": "ENGAGE",
+        "title": "Xác định UPB khách hàng tìm kiếm và nhấn mạnh trong quá trình giới thiệu sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_009",
+        "section_id": "ENGAGE",
+        "title": "Trình bày kiến thức sản phẩm và ít nhất 2 FAB một cách nhất quán",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_010",
+        "section_id": "ENGAGE",
+        "title": "Khuyến khích khách thử sản phẩm bằng lời mời chủ động, không hỏi thụ động",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_011",
+        "section_id": "SUGGEST",
+        "title": "Xác nhận thông tin trước khi lấy sản phẩm: size, hướng khách ngồi/xem thêm, xin phép rời đi",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_012",
+        "section_id": "SUGGEST",
+        "title": "Chuẩn bị sản phẩm cho khách chu đáo",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_013",
+        "section_id": "SUGGEST",
+        "title": "Mời khách thử sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_014",
+        "section_id": "SUGGEST",
+        "title": "Chủ động hướng khách đến phòng thử",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_015",
+        "section_id": "SUGGEST",
+        "title": "Quan sát và phản hồi khi khách thử: độ vừa vặn, thoải mái, màu sắc hoặc cách phối",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_016",
+        "section_id": "SUGGEST",
+        "title": "Thực hiện bán chéo: phối đồ, hàng mới/bán chạy, dịp đặc biệt hoặc chương trình khuyến mại",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_017",
+        "section_id": "SUGGEST",
+        "title": "Thực hiện upsell bằng sản phẩm nguyên giá, dòng cao cấp hơn hoặc loyalty/khuyến mại",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_018",
+        "section_id": "SUGGEST",
+        "title": "Trực tiếp giới thiệu sản phẩm đến khách",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_019",
+        "section_id": "SUGGEST",
+        "title": "Chia sẻ loyalty program hoặc chương trình khuyến mại hiện hành",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_020",
+        "section_id": "SUGGEST",
+        "title": "Xử lý từ chối bằng sản phẩm thay thế, thay đổi nhận thức, hậu mãi/khuyến mại hoặc hết hàng",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_021",
+        "section_id": "SUGGEST",
+        "title": "Thực hiện chốt sale bằng giả định, thương lượng, hối thúc hoặc khen ngợi",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_022",
+        "section_id": "THANK",
+        "title": "Tạo tương tác gắn kết với khách tại quầy",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_023",
+        "section_id": "THANK",
+        "title": "Xác định số món, kiểm tra sản phẩm, SBS và mời khách cùng kiểm tra tình trạng sản phẩm",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_024",
+        "section_id": "THANK",
+        "title": "Chia sẻ cách chăm sóc/bảo quản sản phẩm, loyalty, hàng mới, social hoặc cách phối đồ",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_025",
+        "section_id": "THANK",
+        "title": "Trả thẻ/tiền thừa và đưa sản phẩm cho khách bằng hai tay",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_026",
+        "section_id": "THANK",
+        "title": "Thông báo quy định đổi hàng",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_027",
+        "section_id": "THANK",
+        "title": "Cảm ơn và khuyến khích quay lại: hàng mới mỗi tuần, phối đồ, tham quan online",
+        "max_score": 1
+      },
+      {
+        "id": "GUESTS_028",
+        "section_id": "SERVICE",
+        "title": "Chia sẻ dịch vụ hậu mãi đến khách hàng",
+        "max_score": 1
+      }
+    ]
+  },
+  {
+    "id": "VM",
+    "title": "CHECKLIST VM CỬA HÀNG",
+    "target_type": "store",
+    "max_score": 100,
+    "sections": [
+      {
+        "id": "VM_section_0",
+        "title": "Tổng quan"
+      },
+      {
+        "id": "VM_section_1",
+        "title": "1. TUÂN THỦ GUIDELINE & DEADLINE (20 điểm)"
+      },
+      {
+        "id": "VM_section_2",
+        "title": "2. TRƯNG BÀY WINDOW - MANNEQUIN (15 điểm)"
+      },
+      {
+        "id": "VM_section_3",
+        "title": "3. TRƯNG BÀY SẢN PHẨM TRONG CỬA HÀNG (IN–STORE DISPLAY) (25 điểm)"
+      },
+      {
+        "id": "VM_section_4",
+        "title": "4. POSM (10 điểm)"
+      },
+      {
+        "id": "VM_section_5",
+        "title": "5. STORE LAYOUT & CUSTOMER FLOW (10 điểm)"
+      },
+      {
+        "id": "VM_section_6",
+        "title": "6. CLEANLINESS & MAINTENANCE (20 điểm)"
+      }
+    ],
+    "items": [
+      {
+        "id": "VM_001",
+        "section_id": "VM_section_1",
+        "title": "Thực thi đúng 100% guideline cập nhật hàng tuần",
+        "max_score": 8
+      },
+      {
+        "id": "VM_002",
+        "section_id": "VM_section_1",
+        "title": "Áp dụng thay đổi đúng deadline",
+        "max_score": 6
+      },
+      {
+        "id": "VM_003",
+        "section_id": "VM_section_1",
+        "title": "Thái độ hợp tác & chủ động từ cửa hàng khi triển khai VM",
+        "max_score": 6
+      },
+      {
+        "id": "VM_004",
+        "section_id": "VM_section_2",
+        "title": "Window theo đúng campaign, nội dung VM đúng concept",
+        "max_score": 5
+      },
+      {
+        "id": "VM_005",
+        "section_id": "VM_section_2",
+        "title": "POSM (nếu có) đúng chương trình & đúng vị trí",
+        "max_score": 2
+      },
+      {
+        "id": "VM_006",
+        "section_id": "VM_section_2",
+        "title": "Mannequin mặc đúng VM Infor – không tự ý phối khác",
+        "max_score": 4
+      },
+      {
+        "id": "VM_007",
+        "section_id": "VM_section_2",
+        "title": "Styling đúng tinh thần thương hiệu, tư thế & bố cục chuẩn",
+        "max_score": 2
+      },
+      {
+        "id": "VM_008",
+        "section_id": "VM_section_2",
+        "title": "Vệ sinh sạch – gọn – không vật dụng thừa",
+        "max_score": 2
+      },
+      {
+        "id": "VM_009",
+        "section_id": "VM_section_3",
+        "title": "Đúng móc – đúng chiều treo",
+        "max_score": 3
+      },
+      {
+        "id": "VM_010",
+        "section_id": "VM_section_3",
+        "title": "Chuẩn ZBT( Zip - button - tie )",
+        "max_score": 2
+      },
+      {
+        "id": "VM_011",
+        "section_id": "VM_section_3",
+        "title": "Đúng số lượng & mật độ",
+        "max_score": 3
+      },
+      {
+        "id": "VM_012",
+        "section_id": "VM_section_3",
+        "title": "Sắp xếp đúng nhóm sản phẩm",
+        "max_score": 3
+      },
+      {
+        "id": "VM_013",
+        "section_id": "VM_section_3",
+        "title": "Tone màu / Form dáng / size run đúng",
+        "max_score": 3
+      },
+      {
+        "id": "VM_014",
+        "section_id": "VM_section_3",
+        "title": "Key look / Best seller đúng vị trí",
+        "max_score": 3
+      },
+      {
+        "id": "VM_015",
+        "section_id": "VM_section_3",
+        "title": "Folding/ ACC trưng bày đúng",
+        "max_score": 2
+      },
+      {
+        "id": "VM_016",
+        "section_id": "VM_section_3",
+        "title": "Tag & price hiển thị đúng( Tên & giá sản phẩm)",
+        "max_score": 2
+      },
+      {
+        "id": "VM_017",
+        "section_id": "VM_section_3",
+        "title": "Tình trạng sản phẩm tốt ( k bị lỗi/ rách/ bẩn/ bai xù/ chỉ thừa)",
+        "max_score": 2
+      },
+      {
+        "id": "VM_018",
+        "section_id": "VM_section_3",
+        "title": "Mix & match ( Strong buying suggestion)",
+        "max_score": 2
+      },
+      {
+        "id": "VM_019",
+        "section_id": "VM_section_4",
+        "title": "POSM đúng chương trình",
+        "max_score": 4
+      },
+      {
+        "id": "VM_020",
+        "section_id": "VM_section_4",
+        "title": "Đúng giá / thông tin",
+        "max_score": 3
+      },
+      {
+        "id": "VM_021",
+        "section_id": "VM_section_4",
+        "title": "Đặt đúng vị trí theo guideline – không tự ý thay đổi",
+        "max_score": 3
+      },
+      {
+        "id": "VM_022",
+        "section_id": "VM_section_5",
+        "title": "Lối đi rõ ràng – không chắn tầm nhìn",
+        "max_score": 5
+      },
+      {
+        "id": "VM_023",
+        "section_id": "VM_section_5",
+        "title": "Hotspot / focal point đặt đúng quy chuẩn",
+        "max_score": 5
+      },
+      {
+        "id": "VM_024",
+        "section_id": "VM_section_6",
+        "title": "Vệ sinh không gian chung cửa hàng",
+        "max_score": 3
+      },
+      {
+        "id": "VM_025",
+        "section_id": "VM_section_6",
+        "title": "Giá kệ gọn gàng – không bụi bặm – không lộn xộn",
+        "max_score": 2
+      },
+      {
+        "id": "VM_026",
+        "section_id": "VM_section_6",
+        "title": "Kệ trưng bày & gương",
+        "max_score": 2
+      },
+      {
+        "id": "VM_027",
+        "section_id": "VM_section_6",
+        "title": "Fitting room",
+        "max_score": 2
+      },
+      {
+        "id": "VM_028",
+        "section_id": "VM_section_6",
+        "title": "Quầy thu ngân",
+        "max_score": 2
+      },
+      {
+        "id": "VM_029",
+        "section_id": "VM_section_6",
+        "title": "Mùi hương cửa hàng",
+        "max_score": 2
+      },
+      {
+        "id": "VM_030",
+        "section_id": "VM_section_6",
+        "title": "Ánh sáng",
+        "max_score": 2
+      },
+      {
+        "id": "VM_031",
+        "section_id": "VM_section_6",
+        "title": "Âm nhạc",
+        "max_score": 2
+      },
+      {
+        "id": "VM_032",
+        "section_id": "VM_section_6",
+        "title": "Duy trì chuẩn VM trong ca bán hàng",
+        "max_score": 3
+      }
+    ]
+  }
+]
