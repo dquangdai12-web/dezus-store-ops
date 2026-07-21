@@ -311,7 +311,7 @@ function taskCard(t) {
     </div>
     ${t.description ? `<p>${esc(t.description)}</p>` : ''}
     ${t.evidence_path ? `<div class="hint">Chứng từ: <a class="filelink" href="${esc(t.evidence_path)}" target="_blank">Mở file</a> • ${esc(t.evidence_note || '')}</div>` : ''}
-    ${canComplete ? `<form class="completeForm row" data-id="${t.assignment_id}" enctype="multipart/form-data"><input class="input" name="note" placeholder="Ghi chú hoàn thành"><input class="input" name="evidence" type="file" accept="image/*,.pdf,.xlsx,.docx"><button class="btn small">Hoàn thành</button></form>` : ''}
+    ${canComplete ? `<form class="completeForm row" data-id="${t.assignment_id}" enctype="multipart/form-data"><input class="input" name="note" placeholder="Ghi chú hoàn thành"><input class="input" name="evidence" type="file" accept="image/*,.pdf,.xlsx,.docx" multiple><button class="btn small">Hoàn thành</button></form>` : ''}
   </div>`;
 }
 
