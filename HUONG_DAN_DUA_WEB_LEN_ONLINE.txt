@@ -1,0 +1,25 @@
+HUONG DAN DUA DEZUS STORE OPS LEN ONLINE
+
+BAN NAY DA SAN SANG DE DEPLOY LEN RENDER:
+- Khong dung Google
+- Khong dung SQLite/Python
+- Du lieu luu trong STORAGE_ROOT/data/store_ops.json
+- Anh/chung tu luu trong STORAGE_ROOT/uploads
+- Co render.yaml de Render tu cau hinh nhanh
+
+CAC BUOC TOM TAT:
+1. Tao tai khoan GitHub.
+2. Tao repository moi, vi du: dezus-store-ops.
+3. Upload toan bo file trong thu muc nay len repository do.
+4. Tao tai khoan Render.
+5. New + -> Blueprint -> chon repository dezus-store-ops.
+6. Render doc file render.yaml va tao web service.
+7. Doi ten service/domain neu can.
+8. Sau khi deploy xong, mo link dang .onrender.com.
+9. Dang nhap admin / 123456.
+10. Vao Admin tao tai khoan nhan vien, quan ly.
+
+LUU Y:
+- De giu du lieu khong mat, can dung Render paid service co disk.
+- Neu dung free service khong co persistent disk, du lieu/anh co the mat khi redeploy/restart.
+- Sau khi dung that, doi mat khau admin va khong chia se mat khau admin.

@@ -1,0 +1,6 @@
+node_modules/
+data/store_ops.json
+data/backups/
+uploads/*
+!uploads/.gitkeep
+.env
